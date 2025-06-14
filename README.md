@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rishabh Jain
 
-🎯 **Business Analyst | Data Storyteller | Strategy Enthusiast**
+🎯 Business Analyst | Data Storyteller | Strategy Enthusiast
 
  I'm a passionate Business Analytics professional with 3+ years of experience turning **raw data into real results**. Whether it’s crafting predictive models, optimizing rail systems, or decoding the app store universe using GenAI, I love solving business problems at the intersection of **data, tech, and strategy**.
 
