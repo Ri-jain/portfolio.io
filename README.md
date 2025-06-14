@@ -36,44 +36,44 @@ Whether it's building predictive models, optimizing commuter rail services, or l
 
 ## 📊 Projects
 
-### 🔹 [E-Commerce Sales Analysis – Muchy’s Pet Supplies](https://github.com/rishabhjain/muchys-ecommerce-analysis)  
+###  [E-Commerce Sales Analysis – Muchy’s Pet Supplies](https://github.com/rishabhjain/muchys-ecommerce-analysis)  
 - Conducted Market Basket Analysis, geospatial revenue mapping, and customer segmentation from 20K+ records.
 - Built interactive [Tableau dashboard](https://public.tableau.com/app/profile/rishabh.jain6714/viz/ECommerce-Analysis/ExecutiveSummary?publish=yes).
 - Key Insight: South & West U.S. regions contributed **60%+ of revenue**; faster shipping boosted volume.
 
 ---
 
-### 🔹 [MBTA Commuter Rail Optimization](https://github.com/rishabhjain/mbta-optimization)  
+###  [MBTA Commuter Rail Optimization](https://github.com/rishabhjain/mbta-optimization)  
 - Created an Integer Programming model using Python’s PuLP.
 - Reduced trip time by 7–15 minutes, added 10K+ daily riders, and projected **$18.6M annual revenue**.
 
 ---
 
-### 🔹 [European Air Traffic Trends (2016–2024)](https://github.com/rishabhjain/air-traffic-europe)  
+###  [European Air Traffic Trends (2016–2024)](https://github.com/rishabhjain/air-traffic-europe)  
 - Analyzed COVID recovery trends and regional disparities using time-series and geospatial analysis.
 - Built 20+ visualizations and forecasted year-over-year changes with **95% explanatory power**.
 
 ---
 
-### 🔹 [Customer Churn Prediction](https://github.com/rishabhjain/customer-churn)  
+### [Customer Churn Prediction](https://github.com/rishabhjain/customer-churn)  
 - Used logistic regression and decision trees to predict churn risk.
 - Achieved **78% accuracy** and uncovered top churn drivers.
 
 ---
 
-### 🔹 [App Store Strategy (Google Play vs. Apple)](https://github.com/rishabhjain/appstore-analysis)  
+###  [App Store Strategy (Google Play vs. Apple)](https://github.com/rishabhjain/appstore-analysis)  
 - Analyzed 18K+ apps using Python + LLMs for category standardization.
 - Found Android more flexible for launch; **niche categories showed higher engagement**.
 
 ---
 
-### 🔹 [Retail Customer & Sales Analysis](https://github.com/rishabhjain/retail-analytics)  
+###  [Retail Customer & Sales Analysis](https://github.com/rishabhjain/retail-analytics)  
 - Modeled entity relationships and cleaned CRM/sales data across 4 stores.
 - Built regression (Adj R² = **0.77**) to identify gross margin drivers.
 
 ---
 
-### 🔹 [Airline Passenger Survey Profiling](https://github.com/rishabhjain/airline-survey-cleaning)  
+###  [Airline Passenger Survey Profiling](https://github.com/rishabhjain/airline-survey-cleaning)  
 - Cleaned and profiled survey data for Business Class satisfaction analysis.
 - Addressed missing values, outliers, and duplicates using Python.
 
