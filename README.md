@@ -31,37 +31,37 @@ Skills: Tableau · CRM Management · A/B Testing · Data Cleaning · Campaign An
 📊 Projects
 
 🔹 E-Commerce Sales Analysis – Muchy’s Pet Supplies
-Conducted Market Basket Analysis, geospatial revenue mapping, and customer segmentation from 20K+ records.
+-Conducted Market Basket Analysis, geospatial revenue mapping, and customer segmentation from 20K+ records.
 Built interactive Tableau dashboard.
 Key Insight: South & West U.S. regions contributed 60%+ of revenue; faster shipping boosted volume.
 
 🔹 MBTA Commuter Rail Optimization
-Created an Integer Programming model using Python’s PuLP.
-Reduced trip time by 7–15 minutes, added 10K+ daily riders, and projected $18.6M annual revenue.
+-Created an Integer Programming model using Python’s PuLP.
+-Reduced trip time by 7–15 minutes, added 10K+ daily riders, and projected $18.6M annual revenue.
 
 🔹 European Air Traffic Trends (2016–2024)
-Analyzed COVID recovery trends and regional disparities using time-series and geospatial analysis.
-Built 20+ visualizations and forecasted year-over-year changes with 95% explanatory power.
+-Analyzed COVID recovery trends and regional disparities using time-series and geospatial analysis.
+-Built 20+ visualizations and forecasted year-over-year changes with 95% explanatory power.
 
 🔹 Customer Churn Prediction
-Used logistic regression and decision trees to predict churn risk.
-Achieved 78% accuracy and uncovered top churn drivers.
+-Used logistic regression and decision trees to predict churn risk.
+-Achieved 78% accuracy and uncovered top churn drivers.
 
 🔹 App Store Strategy (Google Play vs. Apple)
-Analyzed 18K+ apps using Python + LLMs for category standardization.
-Found Android more flexible for launch; niche categories showed higher engagement.
+-Analyzed 18K+ apps using Python + LLMs for category standardization.
+-Found Android more flexible for launch; niche categories showed higher engagement.
 
 🔹 Retail Customer & Sales Analysis
-Modeled entity relationships and cleaned CRM/sales data across 4 stores.
-Built regression (Adj R² = 0.77) to identify gross margin drivers.
+-Modeled entity relationships and cleaned CRM/sales data across 4 stores.
+-Built regression (Adj R² = 0.77) to identify gross margin drivers.
 
 🔹 Airline Passenger Survey Profiling
-Cleaned and profiled survey data for Business Class satisfaction analysis.
-Addressed missing values, outliers, and duplicates using Python.
+-Cleaned and profiled survey data for Business Class satisfaction analysis.
+-Addressed missing values, outliers, and duplicates using Python.
 
 🔹 MISO Survey Analysis – Framingham State
-Surveyed faculty tech satisfaction and post-COVID needs.
-Proposed strategies to enhance AI adoption and infrastructure.
+-Surveyed faculty tech satisfaction and post-COVID needs.
+-Proposed strategies to enhance AI adoption and infrastructure.
 
 
 
