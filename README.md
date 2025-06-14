@@ -1,65 +1,129 @@
-👋 Hi, I'm Rishabh Jain
+# 👋 Hi, I'm Rishabh Jain
 
-🎓 M.S. in Business Analytics @ Northeastern University |📍 Boston, MA | 🧠 Data Enthusiast | 📊 Strategy-Driven Analyst | ⚙️ Builder of Clean Dashboards & Smart Models
+🎯 **Business Analyst | Data Storyteller | Strategy Enthusiast**
 
-🚀 About Me
+I'm a data analytics and strategy enthusiast with 3+ years of hands-on experience in marketing analytics, business intelligence, and cross-functional project execution. With a foundation in management and a passion for solving complex problems, I thrive at the intersection of data and decision-making.
 
-I'm a data analytics and strategy enthusiast with 3+ years of hands-on experience in marketing analytics, business intelligence, and cross-functional project execution. With a background in management and a passion for solving complex business problems, I thrive at the intersection of data and decision-making.
-From building predictive models to optimizing rail services and launching app strategies using GenAI, I love transforming raw data into actionable insights that drive real growth.
+Whether it's building predictive models, optimizing commuter rail services, or launching app store strategies using LLMs, I enjoy transforming raw data into business growth opportunities.
 
- What I Do
- 
-🔎 Translate messy data into business-ready stories
-📊 Build dashboards that speak louder than reports
-🤝 Collaborate across marketing, operations, and strategy
-🤖 Explore GenAI & automation to streamline workflows
-📈 Always ask: “How does this help the business?”
+---
 
-🛠️ Tools & Skills
-Analytics & Visualization:
-Tableau · Power BI · Excel · Python · SQL · R
+## 💼 Work Experience
 
-Modeling & Techniques:
-Regression · Segmentation (RFM, Cohort) · Optimization · Monte Carlo Simulation
+### 📍 **Team Lead – Marketing Analytics**  
+**Almabetter, Bangalore** (Mar 2022 – Jun 2024)
 
-AI & GenAI:
-Prompt Engineering · ChatGPT API · LLM-Based Classification
+- Spearheaded a team of 5 to develop data-driven marketing strategies, resulting in a **12% YoY revenue growth**.
+- Built and maintained **Tableau and Excel dashboards**, influencing $195K+ in revenue decisions across 50+ campaigns.
+- Conducted **customer segmentation and cohort analysis**, improving lead conversion by **20%**.
+- Designed **automated KPI tracking** and collaborated cross-functionally to optimize marketing ROI.
 
-Soft Skills:
-Strategic Thinking · Leadership · Communication · Data Storytelling
+**Skills:** Tableau · Excel · KPI Dashboards · Marketing Analytics · Data Storytelling · Cohort Analysis
 
-💼 Experience
-🔹 Team Lead – Marketing Analytics
-Almabetter, Bangalore, India
-Mar 2022 – Jun 2024
+---
 
-📈 Led a team of 5 to develop data-driven strategies resulting in 12% YoY revenue growth
-📊 Built & maintained executive dashboards in Tableau/Excel, supporting $195K+ in decisions
-👥 Ran customer segmentation & cohort analysis, improving lead conversion by 20%
-🛠️ Standardized performance tracking across 50+ campaigns via automated KPI pipelines
-🤝 Collaborated with cross-functional stakeholders to scale reporting & funnel optimization
+### 📍 **Marketing Analyst Intern**  
+**Harvard Alumni Entrepreneurs, New Delhi** (Jan 2021 – Jan 2022)
 
-Skills: Tableau · Excel · Marketing Analytics · KPI Dashboards · Cohort Analysis · Campaign Performance
+- Conducted multivariate testing and A/B experiments, increasing **CTR by 22%**.
+- Developed **real-time Tableau dashboards** for campaign insights.
+- Cleaned and analyzed 1,000+ posts, resulting in **30% growth in community** membership.
+- Presented findings using **compelling data visualizations and CRM analytics**.
 
-🔹 Marketing Analyst Intern
-Harvard Alumni Entrepreneurs, Remote / New Delhi
-Jan 2021 – Jan 2022
+**Skills:** Tableau · CRM Management · A/B Testing · Data Cleaning · Campaign Analytics
 
-🔍 Conducted multivariate testing, improving CTR by 22%
-📊 Built interactive Tableau dashboards for real-time campaign insights
-📈 Cleaned & analyzed 1,000+ social posts to boost community engagement by 30%
-🧹 Enforced CRM data quality via Excel-based governance tools
-🎯 Presented data stories to global stakeholders for strategic decisions
+---
 
-Skills: CRM Management · Tableau · A/B Testing · Content Analytics · Data Cleaning · Visualization
+## 📊 Projects
 
+### 🔹 [E-Commerce Sales Analysis – Muchy’s Pet Supplies](https://github.com/rishabhjain/muchys-ecommerce-analysis)  
+- Conducted Market Basket Analysis, geospatial revenue mapping, and customer segmentation from 20K+ records.
+- Built interactive [Tableau dashboard](https://public.tableau.com/app/profile/rishabh.jain6714/viz/ECommerce-Analysis/ExecutiveSummary?publish=yes).
+- Key Insight: South & West U.S. regions contributed **60%+ of revenue**; faster shipping boosted volume.
 
-📜 Certifications
-📘 Marketing Analytics – University of Virginia (Coursera)
-🎯 Performance Marketing – Growth School
-🤖 GenAI for Business – DataCamp
-🧠 Data Literacy & AI Fundamentals – DataCamp
-✍️ Prompt Engineering with ChatGPT – DataCamp
+---
+
+### 🔹 [MBTA Commuter Rail Optimization](https://github.com/rishabhjain/mbta-optimization)  
+- Created an Integer Programming model using Python’s PuLP.
+- Reduced trip time by 7–15 minutes, added 10K+ daily riders, and projected **$18.6M annual revenue**.
+
+---
+
+### 🔹 [European Air Traffic Trends (2016–2024)](https://github.com/rishabhjain/air-traffic-europe)  
+- Analyzed COVID recovery trends and regional disparities using time-series and geospatial analysis.
+- Built 20+ visualizations and forecasted year-over-year changes with **95% explanatory power**.
+
+---
+
+### 🔹 [Customer Churn Prediction](https://github.com/rishabhjain/customer-churn)  
+- Used logistic regression and decision trees to predict churn risk.
+- Achieved **78% accuracy** and uncovered top churn drivers.
+
+---
+
+### 🔹 [App Store Strategy (Google Play vs. Apple)](https://github.com/rishabhjain/appstore-analysis)  
+- Analyzed 18K+ apps using Python + LLMs for category standardization.
+- Found Android more flexible for launch; **niche categories showed higher engagement**.
+
+---
+
+### 🔹 [Retail Customer & Sales Analysis](https://github.com/rishabhjain/retail-analytics)  
+- Modeled entity relationships and cleaned CRM/sales data across 4 stores.
+- Built regression (Adj R² = **0.77**) to identify gross margin drivers.
+
+---
+
+### 🔹 [Airline Passenger Survey Profiling](https://github.com/rishabhjain/airline-survey-cleaning)  
+- Cleaned and profiled survey data for Business Class satisfaction analysis.
+- Addressed missing values, outliers, and duplicates using Python.
+
+---
+
+### 🔹 [MISO Survey Analysis – Framingham State](https://github.com/rishabhjain/miso-analysis)  
+- Surveyed faculty tech satisfaction and post-COVID needs.
+- Proposed strategies to enhance AI adoption and infrastructure.
+
+---
+
+## 🛠️ Skills & Tools
+
+**Analytics & Visualization:**  
+Tableau · Power BI · Excel · Python · SQL · R  
+
+**Modeling & Analysis:**  
+Regression · Segmentation (RFM, Cohort) · Churn Prediction · Optimization · Monte Carlo Simulation  
+
+**GenAI & Automation:**  
+Prompt Engineering · ChatGPT APIs · LLM-based Classification  
+
+**Soft Skills:**  
+Leadership · Communication · Strategic Thinking · Data Storytelling
+
+---
+
+## 📜 Certifications
+
+- Marketing Analytics – *University of Virginia*  
+- Performance Marketing – *Growth School*  
+- GenAI for Business – *DataCamp*  
+- Data Literacy & AI Fundamentals – *DataCamp*  
+- Prompt Engineering & ChatGPT – *DataCamp*
+
+---
+
+## ✨ Fun Fact
+
+I'm endlessly curious, love solving ambiguous problems, and have a not-so-secret obsession with well-structured dashboards.
+
+---
+
+## 📫 Contact
+
+📍 Boston, MA  
+📧 rishabh@email.com  
+🔗 [LinkedIn](https://linkedin.com/in/rishabhjain)  
+🌐 [Portfolio Website](https://rishabhjain.github.io) *(Coming Soon)*
+
 
 ✨ Fun Fact
 I'm endlessly curious, love solving ambiguous problems, and have a not-so-secret obsession with well-structured dashboards. If it tells a great story, I’m already in!
