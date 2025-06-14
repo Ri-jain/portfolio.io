@@ -30,7 +30,7 @@ Skills: Tableau · CRM Management · A/B Testing · Data Cleaning · Campaign An
 
 📊 Projects
 
-*🔹 *E-Commerce Sales Analysis – Muchy’s Pet Supplies
+🔹 E-Commerce Sales Analysis – Muchy’s Pet Supplies
 Conducted Market Basket Analysis, geospatial revenue mapping, and customer segmentation from 20K+ records.
 Built interactive Tableau dashboard.
 Key Insight: South & West U.S. regions contributed 60%+ of revenue; faster shipping boosted volume.
