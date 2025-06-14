@@ -3,11 +3,12 @@
 🎓 M.S. in Business Analytics @ Northeastern University |📍 Boston, MA | 🧠 Data Enthusiast | 📊 Strategy-Driven Analyst | ⚙️ Builder of Clean Dashboards & Smart Models
 
 🚀 About Me
-I'm a data analytics and strategy enthusiast with 3+ years of hands-on experience in marketing analytics, business intelligence, and cross-functional project execution. With a background in management and a passion for solving complex business problems, I thrive at the intersection of data and decision-making.
 
+I'm a data analytics and strategy enthusiast with 3+ years of hands-on experience in marketing analytics, business intelligence, and cross-functional project execution. With a background in management and a passion for solving complex business problems, I thrive at the intersection of data and decision-making.
 From building predictive models to optimizing rail services and launching app strategies using GenAI, I love transforming raw data into actionable insights that drive real growth.
 
-💡 What I Do
+ What I Do
+ 
 🔎 Translate messy data into business-ready stories
 📊 Build dashboards that speak louder than reports
 🤝 Collaborate across marketing, operations, and strategy
