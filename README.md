@@ -34,57 +34,56 @@ Business Analyst | Data Storyteller | Strategy Enthusiast
 
 ## Projects
 
-### 🔹  E-Commerce Sales Analysis – Muchy’s Pet Supplies ([View Project](https://github.com/Ri-jain/Ecommerce-Sales-Muchy-Pets))
--  Market Basket Analysis & customer segmentation from 20K+ records  
--  Geospatial revenue maps showing 60%+ sales from South & West U.S.  
--  [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/rishabh.jain6714/viz/ECommerce-Analysis/ExecutiveSummary?publish=yes)
-
----
-### 🔹  MBTA Commuter Rail Optimization ([View Project](https://github.com/Ri-jain/MBTA-Commuter-Rail-Optimization))
--  Built Integer Programming model (Python + PuLP) to skip low-ridership stops  
--  Saved up to **$18.6M annually**, with a **7–15 minute trip time reduction**  
--  Used Monte Carlo simulations to ensure robustness of express patterns
+### 🔹 MBTA Commuter Rail Optimization ([View Project](https://github.com/Ri-jain/MBTA-Optimization-Project))
+- Built Integer Programming model (Python + PuLP) to skip low-ridership stops  
+- Saved up to $18.6M annually, with a 7–15 minute trip time reduction  
+- Used Monte Carlo simulations to ensure robustness of express patterns
 
 ---
 
-### 🔹 European Air Traffic Trends (2016–2024) ([View Project](https://github.com/Ri-jain/European-Air-Traffic-Trends))
+### 🔹 European Air Traffic Trends (2016–2024) ([View Project](https://github.com/Ri-jain/European-Air-Traffic-Analysis))
 - Tracked post-COVID & Brexit traffic patterns using time series analysis  
 - Found 10 airports driving Europe's recovery; built 20+ visuals (Python)  
-- Forecasting models showed **95%+ explanatory power**
+- Forecasting models showed 95%+ explanatory power
 
 ---
 
-### 🔹  Customer Churn Prediction ([View Project](https://github.com/Ri-jain/Customer-Churn-Prediction))
-- Logistic Regression + Decision Trees = **78% accuracy**  
+### 🔹 Customer Churn Prediction ([View Project](https://github.com/Ri-jain/Regression-Analysis-Project))
+- Logistic Regression + Decision Trees = 78% accuracy  
 - Identified key churn drivers: price sensitivity, late shipping, low repeat rate
 
 ---
 
-### 🔹  App Store Launch Strategy (Google Play vs Apple) ([View Project](https://github.com/Ri-jain/App-Store-Launch-Strategy))
+### 🔹 App Store Launch Strategy (Google Play vs Apple) ([View Project](https://github.com/Ri-jain/App-Launch-Strategy))
 - Cleaned 18K+ apps using LLMs (Python) for category standardization  
 - Android found better for early launch; niche categories had higher engagement  
 - Interactive Tableau dashboards revealed pricing & engagement trends
 
 ---
 
-### 🔹 Retail Customer & Sales Analysis ([View Project](https://github.com/Ri-jain/Retail-Customer-Sales-Analysis))
-- Modeled customer–store–transaction relationships (ERD)  
-- Cleaned CRM data and built a regression model (Adj R² = **0.77**) to identify gross margin drivers  
-- Delivered strategic insights on pricing and inventory planning
+### 🔹 E-Commerce Sales Analysis – Muchy’s Pet Supplies ([View Project](https://github.com/Ri-jain/Data-Analysis-E-commerce))
+- Market Basket Analysis & customer segmentation from 20K+ records  
+- Geospatial revenue maps showing 60%+ sales from South & West U.S.  
+- [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/rishabh.jain6714/viz/ECommerce-Analysis/ExecutiveSummary?publish=yes)
 
 ---
 
-### 🔹 Airline Passenger Survey Profiling ([View Project](https://github.com/Ri-jain/Airline-Passenger-Survey-Profiling))
+### 🔹 Airline Passenger Survey Profiling ([View Project](https://github.com/Ri-jain/Python-Profiling-Project))
 - Cleaned Business Class survey data for satisfaction prediction  
 - Removed duplicates, imputed missing values, corrected inconsistent formats
 
 ---
 
-### 🔹  MISO Survey Analysis – Framingham State University ([View Project](https://github.com/Ri-jain/MISO-Survey-Analysis-FSU))
+### 🔹 MISO Survey Analysis – Framingham State University ([View Project](https://github.com/Ri-jain/MISO-Survey-Analysis-Framingham-State-University-2025-))
 - Analyzed faculty tech satisfaction & post-pandemic learning needs  
 - Proposed strategies to improve AI tool adoption in education
 
 ---
+
+### 🔹 IMDb Top Voted Movies Analysis ([View Project](https://github.com/Ri-jain/MDb-Top-Voted-Movies-Analytics-Project))
+- Cleaned and explored IMDb dataset for trends across ratings, genres & directors  
+- Identified sentiment factors and built visualizations using Seaborn & Plotly  
+- Analyzed correlation between runtime, metascore, and IMDb ratings
 
 ## Tools & Skills
 
