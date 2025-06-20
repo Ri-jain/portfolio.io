@@ -2,35 +2,7 @@
 
 Business Analyst | Data Storyteller | Strategy Enthusiast
 
- I'm a passionate Business Analytics professional with 3+ years of experience turning **raw data into real results**. Whether it’s crafting predictive models, optimizing rail systems, or decoding the app store universe using GenAI, I love solving business problems at the intersection of **data, tech, and strategy**.
-
----
-
-##  Work Experience
-
-###  Team Lead – Marketing Analytics  
-**Almabetter, Bangalore** (Mar 2022 – Jun 2024)
-
--  Led a team of 5 in designing data-driven marketing strategies, delivering **12% YoY revenue growth**.
--  Built and managed Tableau & Excel dashboards supporting **$195K+ in revenue** across 50+ campaigns.
--  Performed customer segmentation & cohort analysis, boosting conversion by **20%**.
--  Automated KPI reporting and collaborated across departments to enhance campaign ROI visibility.
-
-**Skills:** Tableau · Excel · KPI Dashboards · Marketing Analytics · Data Storytelling · Cohort Analysis
-
----
-
-###  Marketing Analyst Intern  
-**Harvard Alumni Entrepreneurs, New Delhi** (Jan 2021 – Jan 2022)
-
--  Improved campaign CTR by **22%** through multivariate testing and performance optimization.
--  Built real-time Tableau dashboards to inform content strategy and engagement decisions.
--  Analyzed 1,000+ social posts, leading to **30% growth** in community engagement.
--  Streamlined CRM accuracy through automated QA in Excel and data cleaning workflows.
-
-**Skills:** Tableau · CRM Management · A/B Testing · Data Cleaning · Campaign Analytics
-
----
+ I'm a passionate Business Analytics professional with 3+ years of experience turning **raw data into real results**. Whether it’s crafting predictive models, optimizing rail systems, or decoding the app store universe using GenAI, I love solving business problems at the intersection of **data, tech, and strategy**
 
 ## Projects
 
@@ -84,28 +56,6 @@ Business Analyst | Data Storyteller | Strategy Enthusiast
 - Cleaned and explored IMDb dataset for trends across ratings, genres & directors  
 - Identified sentiment factors and built visualizations using Seaborn & Plotly  
 - Analyzed correlation between runtime, metascore, and IMDb ratings
-
-## Tools & Skills
-
-| Category              | Tools / Techniques                                                                 |
-|-----------------------|------------------------------------------------------------------------------------|
-| **Visualization**     | Tableau · Power BI · Excel · Python (Matplotlib, Seaborn)                         |
-| **Data Analytics**    | SQL · R · Python (Pandas, NumPy, Scikit-learn)                                     |
-| **Modeling**          | Logistic Regression · Decision Trees · RFM & Cohort Segmentation · Optimization    |
-| **GenAI & LLMs**      | Prompt Engineering · ChatGPT APIs · LangChain (experimental)                      |
-| **Soft Skills**       | Leadership · Strategic Thinking · Communication · Data Storytelling               |
-
----
-
-## Certifications
-
--  **Marketing Analytics** – *University of Virginia*  
--  **Performance Marketing** – *Growth School*  
--  **GenAI for Business** – *DataCamp*  
--  **Data Literacy & AI Fundamentals** – *DataCamp*  
--  **Prompt Engineering & ChatGPT** – *DataCamp*
-
----
 
 ##  Fun Fact
 
