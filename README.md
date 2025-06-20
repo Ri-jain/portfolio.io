@@ -57,8 +57,4 @@ Business Analyst | Data Storyteller | Strategy Enthusiast
 - Identified sentiment factors and built visualizations using Seaborn & Plotly  
 - Analyzed correlation between runtime, metascore, and IMDb ratings
 
-##  Fun Fact
-
-I’m endlessly curious, love solving ambiguous problems, and have a not-so-secret obsession with **color-coded dashboards** and **aesthetic data visualizations**.  
-
 
