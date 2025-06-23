@@ -7,12 +7,11 @@ Business Analyst | Data Storyteller | Strategy Enthusiast
 ## Projects
 
 ### 🔹 AZ Watch Churn Prediction & Segmentation ([View Project](https://github.com/Ri-jain/AZ-Watch-))
--Built classification models (Logistic Regression, Tree, Random Forest) to predict subscriber churn
--Achieved 91% accuracy with Logistic Regression; identified low engagement as key churn driver
--Applied K-Means clustering to segment users by behavior for personalized retention campaigns
+-Built classification models (Logistic Regression, Tree, Random Forest) to predict subscriber churn.
+-Achieved 91% accuracy with Logistic Regression; identified low engagement as a key churn driver.
+-Applied K-Means clustering to segment users by behavior for personalized retention campaigns.
 
-
-
+---
 
 ### 🔹 MBTA Commuter Rail Optimization ([View Project](https://github.com/Ri-jain/MBTA-Optimization-Project))
 - Built Integer Programming model (Python + PuLP) to skip low-ridership stops  
