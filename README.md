@@ -7,7 +7,7 @@ Hi, I'm Rishabh Jain.  I'm a passionate Business Analytics professional with 3+ 
 
 ## Projects
 
-### 🔹 Skandia Elevator – Churn Prediction & Customer Prioritization[View Project](https://github.com/Ri-jain/Capstone-Project)
+### 🔹 Skandia Elevator – Churn Prediction & Customer Prioritization ([View Project](https://github.com/Ri-jain/Capstone-Project))
 - Built a data-driven framework to segment B2B customers, predict churn, and prioritize retention.  
 - Revealed $9B+ revenue from churned accounts and surfaced 68 high-value customers at risk.  
 - RFM Segmentation · Machine Learning · Revenue Risk Analytics  
