@@ -10,7 +10,8 @@ Business Analyst | Data Storyteller | Strategy Enthusiast
 - Analyzed 26K+ inpatient records using Python to uncover hospital-level efficiency and financial performance.  
 - Engineered cost, revenue, and profit metrics per patient; segmented cases by LOS and demographics (race, gender, age).  
 - Visualized trends across 15+ charts; revealed 10 hospitals driving 50%+ revenue and 5 operating at negative profit.
-----
+
+---
 
 ### 🔹 AZ Watch Churn Prediction & Segmentation ([View Project](https://github.com/Ri-jain/AZ-Watch-))
 - Built classification models (Logistic Regression, Tree, Random Forest) to predict subscriber churn.
