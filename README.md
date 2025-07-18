@@ -6,6 +6,13 @@ Business Analyst | Data Storyteller | Strategy Enthusiast
 
 ## Projects
 
+### 🔹  Hospital Inpatient Discharges Analysis – Total Hip Replacement ([View Project] (https://github.com/Ri-jain/Healthcare_Analytics))
+- Analyzed 26K+ inpatient records using Python to uncover hospital-level efficiency and financial performance.
+- Engineered cost, revenue, and profit metrics per patient; segmented cases by LOS and demographics (race, gender, age).
+- Visualized trends across 15+ charts; revealed 10 hospitals driving 50%+ revenue and 5 operating at negative profit.
+
+----
+
 ### 🔹 AZ Watch Churn Prediction & Segmentation ([View Project](https://github.com/Ri-jain/AZ-Watch-))
 - Built classification models (Logistic Regression, Tree, Random Forest) to predict subscriber churn.
 - Achieved 91% accuracy with Logistic Regression; identified low engagement as a key churn driver.
