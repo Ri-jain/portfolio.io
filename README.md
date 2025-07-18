@@ -7,6 +7,15 @@ Hi, I'm Rishabh Jain.  I'm a passionate Business Analytics professional with 3+ 
 
 ## Projects
 
+### 🔹 Skandia Elevator – Churn Prediction & Customer Prioritization[View Project](https://github.com/Ri-jain/Capstone-Project)
+- Built a data-driven framework to segment B2B customers, predict churn, and prioritize retention.  
+- Revealed $9B+ revenue from churned accounts and surfaced 68 high-value customers at risk.  
+- RFM Segmentation · Machine Learning · Revenue Risk Analytics  
+- Python, Logistic Regression, Random Forest, Spyder 
+
+---
+
+
 ### 🔹 Hospital Inpatient Discharges Analysis – Total Hip Replacement ([View Project](https://github.com/Ri-jain/Healthcare_Analytics))
 - Analyzed 26K+ inpatient records using Python to uncover hospital-level efficiency and financial performance.  
 - Engineered cost, revenue, and profit metrics per patient; segmented cases by LOS and demographics (race, gender, age).  
