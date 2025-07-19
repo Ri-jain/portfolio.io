@@ -76,9 +76,4 @@ Hi, I'm Rishabh Jain.  I'm a passionate Business Analytics professional with 3+ 
 
 ---
 
-### IMDb Top Voted Movies Analysis ([View Project](https://github.com/Ri-jain/MDb-Top-Voted-Movies-Analytics-Project))
-- Cleaned and explored IMDb dataset for trends across ratings, genres & directors  
-- Identified sentiment factors and built visualizations using Seaborn & Plotly  
-- Analyzed correlation between runtime, metascore, and IMDb ratings
-
 
