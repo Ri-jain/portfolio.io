@@ -36,12 +36,6 @@ Hi, I'm Rishabh Jain.  I'm a passionate Business Analytics professional with 3+ 
 
 ---
 
-### Customer Churn Prediction ([View Project](https://github.com/Ri-jain/Regression-Analysis-Project))
-- Logistic Regression + Decision Trees = 78% accuracy  
-- Identified key churn drivers: price sensitivity, late shipping, low repeat rate
-
----
-
 ### App Store Launch Strategy (Google Play vs Apple) ([View Project](https://github.com/Ri-jain/App-Launch-Strategy))
 - Cleaned 18K+ apps using LLMs (Python) for category standardization  
 - Android found better for early launch; niche categories had higher engagement  
