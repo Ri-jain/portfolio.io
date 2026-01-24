@@ -1,3 +1,39 @@
+<style>
+  /* Sidebar for Desktop */
+  @media screen and (min-width: 1200px) {
+    #project-sidebar {
+      position: fixed;
+      left: 30px; /* Adjust to sit in the white space */
+      top: 450px; /* Positions below your profile photo */
+      width: 180px;
+      z-index: 100;
+      border-right: 1px solid #eee;
+      padding-right: 10px;
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+    #project-sidebar ul { list-style: none; padding: 0; margin: 0; }
+    #project-sidebar li { margin-bottom: 15px; font-size: 14px; }
+    #project-sidebar a { color: #39c; text-decoration: none; display: block; }
+    #project-sidebar a:hover { color: #222; font-weight: bold; }
+  }
+  
+  /* Hide sidebar on mobile/small screens */
+  @media screen and (max-width: 1199px) {
+    #project-sidebar { display: none; }
+  }
+</style>
+
+<div id="project-sidebar">
+  <p style="font-weight: bold; color: #333; font-size: 15px; margin-bottom: 10px;">Project Index</p>
+  <ul>
+    <li><a href="#sport-analytics"> Sport Analytics</a></li>
+    <li><a href="#mobility"> Mobility Optimization</a></li>
+    <li><a href="#healthcare"> Healthcare Analytics</a></li>
+  </ul>
+</div>
+
+
+
 # Project Portfolio
 
 Hi, I'm Rishabh Jain. I'm a Business Professional with 4+ years of professional experience working with data,strategy and execution.
