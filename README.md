@@ -31,13 +31,13 @@ Model Accuracy     : **87%** (Validated against 2024 outcomes)
 The Eureka Moment  : Identified the 3rd hour of play as the "stamina tipping point" where youth overrides experience. 
 The Forecast       : Highlighted **Jannik Sinner** as the dominant force for 2025 due to his elite Elo-to-Age ratio. 
 
-Explore more: https://github.com/Ri-jain/Sport-Analytics
+[**Explore the Code on GitHub**](https://github.com/Ri-jain/Sport-Analytics)
 
 ---------------------------
 
 ## Mobility Optimization & Analyis
 
-### 1.MBTA Commuter Rail Optimization 
+### MBTA Commuter Rail Optimization 
 
 ## Inspiration Behind :
 As someone who love to travel and explore cities, this project idea came about as a part of **Business Modelling class**. Having travelled to Tokyo, past year, I was really fascinated by tokyo's rail infrastructure and how they managed to optimize their infrastructe and run different categories of trains on same infrastructure. This really motivated me to be creative and come up with a solution where we prototyped a new express line on Boston's MBTA Commuter rail infrastructure.
@@ -57,7 +57,7 @@ Efficiency Gain        : 9.25 Minutes saved per trip, scaling to thousands of co
 Revenue Impact         : $18.6M Projected Annual Growth driven by increased service frequency and ridership.
 Environmental ROI      : Estimated removal of 6,300+ cars from Boston roads daily, significantly reducing urban carbon emissions.
 
-Explore more: https://github.com/Ri-jain/MBTA-Optimization-Project
+[**Explore the Code on GitHub**](https://github.com/Ri-jain/MBTA-Optimization-Project)
 
 ---
 
