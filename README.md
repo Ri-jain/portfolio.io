@@ -24,7 +24,7 @@
 </style>
 
 <div id="project-sidebar">
-  <p style="font-weight: bold; color: #333; font-size: 15px; margin-bottom: 10px;">Project Index</p>
+  <p style="font-weight: bold; color: #333; font-size: 15px; margin-bottom: 10px;"> Index</p>
   <ul>
     <li><a href="#sport-analytics"> Sport Analytics</a></li>
     <li><a href="#mobility-analytics"> Mobility Optimization</a></li>
