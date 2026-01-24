@@ -29,6 +29,7 @@
     <li><a href="#sport-analytics"> Sport Analytics</a></li>
     <li><a href="#mobility-analytics"> Mobility Optimization</a></li>
     <li><a href="#healthcare-analytics"> Healthcare Analytics</a></li>
+    <li><a href="#chipotle-strategy"> Chipotle India Strategy</a></li>
   </ul>
 </div>
 
@@ -43,6 +44,7 @@ Hi, I'm Rishabh Jain. I'm a Business Professional with 4+ years of professional 
 I work for solutions to real life challenges. My passion is rooted in optimization. I always aim to work on challenges that addresses our everyday friction and affect how we live and work. This portfolio is a showcase of my skills that spans understanding about data in different industries , business strategy in real world and my curiosity for solving various problems.
 
 ## PROJECTS
+
 
 
 ## Sport Analytics <a name="sport-analytics"></a>
@@ -141,3 +143,28 @@ The project demonstrated that large-scale clinical datasets can be transformed i
 This work changes the Healthcare Management landscape by shifting the focus from simply "managing volume" to "optimizing the quality of the pathway." By implementing these risk models, hospitals can pivot toward Value-Based Care, where resource allocation is tied directly to recovery outcomes rather than procedure counts. Furthermore, it proves that Digital Health Interventions can be used to scale patient support beyond the hospital walls, reducing the burden on physical ER infrastructure.
 
 [**View Project**](https://github.com/Ri-jain/Healthcare_Analytics)
+
+------------------------------
+
+## Strategy & Consulting
+
+
+## Chipotle: Market Entry Strategy in India <a name="chipotle-strategy"></a>
+
+### Inspiration Behind :
+This project was a product of an IB class where I was really compelled as a Business Student to think hard about "Reverse Globalization"- A complex challenge to adapting a global brand to a high-friction market. So, as a foodie who always wanted to see diverse mexican taste on streets of India, we architected a market entry strategy for Chipotle's offical entry in the Indian market. We wanted to solve the ultimate localization puzzle: maintaining a core brand identity ("Food with Integrity") in a market where 30% of consumers follow strict vegetarian diets and income inequality requires a highly calibrated pricing strategy.
+
+## Strategy Behind:
+We developed a comprehensive investment and operational framework to de-risk Chipotle's expansion into the Indian QSR landscape:
+
+01. Market & Competitive Benchmarking: Performed a deep-dive analysis using Porter’s Five Forces and Value Chain Analysis. I benchmarked Chipotle against incumbents like Taco Bell and McDonald’s, identifying a "Premium Fresh" gap with a proposed Average Order Value (AOV) of ₹300-400 to appeal to health-conscious urban professionals.
+02. Cultural & Operational Localization: Designed a transnational strategy that mandates a high vegetarian menu mix—mirroring local competitors like California Burrito—and strict cross-contamination protocols, such as dedicated grills for meat and vegetarian options.
+03. Risk-Mitigated Entry Mode: Recommended a Joint Venture with local player California Burrito to leverage an established supply chain and reduce initial entry risk, with a long-term roadmap to transition into a wholly owned subsidiary.
+
+## How it all came out:
+The report established a clear roadmap for long-term brand building in the world's 4th largest economy. By focusing on urban hubs like Delhi, Mumbai, and Bengaluru, and utilizing a blend of flagship physical stores and efficient cloud kitchens, the model forecasts scalable growth through India's high internet and food delivery aggregator usage. The final strategy emphasized that success in India is a "marathon, not a sprint," requiring deep cultural integration and supply chain transparency.
+
+## What this changes:
+This project shifts the focus for global brands from simple expansion to Strategic Resilience. It proves that successful market entry in emerging economies requires a pivot from standard global menus to Local Supply Chain Innovation—such as sourcing native biodegradable materials like jute for packaging to meet local sustainability needs. For stakeholders, this framework provides a blueprint for Balanced Growth, where core brand values are preserved while operational systems are completely re-engineered for local dietary, legal, and economic realities.
+
+[**View Report**](https://github.com/Ri-jain/Chipotle-India-Entry-/blob/main/Full-Report.pdf)
