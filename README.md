@@ -1,8 +1,5 @@
 # Project Portfolio
 
-
-Business Analyst | Data Storyteller | Strategy Enthusiast | Business Consultant | Marketing Analyst
-
 Hi, I'm Rishabh Jain. I'm a Business Professional with 4+ years of professional experience working with data,strategy and execution.
 
  Welcome to my Portfolio!
