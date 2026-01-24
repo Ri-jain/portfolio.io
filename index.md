@@ -1,55 +1,32 @@
 <style>
-  /* This targets the left sidebar area specifically in the 'orderedlist' theme */
-  @media screen and (min-width: 1024px) {
-    .project-nav {
+  @media screen and (min-width: 1100px) {
+    .side-nav {
       position: fixed;
-      left: 40px; /* Adjust based on your profile photo alignment */
-      top: 450px; /* Positions it below your profile picture */
+      left: 20px;
+      top: 150px;
       width: 200px;
-      text-align: left;
-      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-family: sans-serif;
+      border-right: 1px solid #eee;
+      padding-right: 15px;
     }
-    .project-nav ul {
-      list-style: none;
-      padding: 0;
-    }
-    .project-nav li {
-      margin-bottom: 12px;
-      font-size: 14px;
-    }
-    .project-nav a {
-      color: #39c; /* Matches the theme's default blue */
+    .side-nav a {
+      display: block;
+      padding: 8px 0;
+      color: #666;
       text-decoration: none;
-      transition: color 0.2s;
+      font-size: 0.9em;
     }
-    .project-nav a:hover {
-      color: #222;
-      font-weight: bold;
-    }
+    .side-nav a:hover { color: #007bff; font-weight: bold; }
+    .side-nav-title { font-weight: bold; margin-bottom: 10px; color: #333; }
   }
-  /* Hide sidebar on mobile to avoid clutter */
-  @media screen and (max-width: 1023px) {
-    .project-nav { display: none; }
-  }
+  @media screen and (max-width: 1099px) { .side-nav { display: none; } }
 </style>
 
-<div class="project-nav">
-  <p style="font-weight: bold; color: #222; margin-bottom: 10px;">PROJECT INDEX</p>
-  <ul>
-    <li><a href="#tennis">🎾 Sport Analytics</a></li>
-    <li><a href="#mobility">🚆 MBTA Optimization</a></li>
-    <li><a href="#aviation">✈️ Aviation Trends</a></li>
-    <li><a href="#healthcare">🏥 Healthcare Analytics</a></li>
-  </ul>
+<div class="side-nav">
+  <div class="side-nav-title">Project Index</div>
+  <a href="#projects-top">🔝 Top</a>
+  <a href="#sport-analytics">🎾 Sport Analytics</a>
+  <a href="#mbta">🚆 MBTA Optimization</a>
+  <a href="#aviation">✈️ Aviation Trends</a>
+  <a href="#healthcare">🏥 Healthcare Analytics</a>
 </div>
-
-
-
-
-## Sport Analytics {#tennis}
-...
-## Mobility Optimization & Analysis {#mobility}
-...
-## European Air Traffic Trends {#aviation}
-...
-## Healthcare Analytics {#healthcare}
