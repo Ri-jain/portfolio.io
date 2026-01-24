@@ -45,7 +45,7 @@ I work for solutions to real life challenges. My passion is rooted in optimizati
 ## PROJECTS
 
 
-## Sport Analytics {#sport-analytics}
+## Sport Analytics <a name="sport-analytics"></a>
 ## US Open - ATP Prediction Model
 
 ### Inspiration Behind :
@@ -70,7 +70,7 @@ This model moves the needle for Sports Broadcasting by enabling real-time "Live 
 
 ---------------------------
 
-## Mobility Optimization & Analyis {#moblity-analytics}
+## Mobility Optimization & Analyis <a name="mobility-analytics"></a>
 
 ## 1.MBTA Commuter Rail Optimization 
 
@@ -118,7 +118,7 @@ These insights allow for a massive shift in Airline Strategy, suggesting a move 
 
 -----------------------------
 
-## Healthcare Analytics {#healthcare-analytics}
+## Healthcare Analytics <a name="healthcare-analytics"></a>
 
 ### Inspiration Behind:
 This came as another passion project. Healthcare is an environment defined by high stakes and high friction, where delays in data can lead to delays in critical care. I wanted to apply my optimization mindset to a field where better data directly impacts human lives. This project was driven by a desire to move from reactive hospital management to a proactive, data-driven system that anticipates patient needs before they become emergencies.
