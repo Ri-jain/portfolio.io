@@ -62,7 +62,7 @@ This project reshapes Urban Policy by proving that city planners can achieve mod
 
 ## 2. European Air Traffic Trends (2016–2024)
 
-### Inspiration Behind :
+### Inspiration Behind:
 Growing up, I always had a fascination with aviation. While my career path led me to data, I’ve never lost that fascination with how the world moves through the sky. So this project really came as a part of a Data Mining Class at Northeastern University. When the pandemic grounded global fleets, I saw a unique opportunity to study a "system in reset." I took on this project to quantify the resilience of the aviation industry, tracking how 300,000+ flights navigated the friction of COVID-19 and Brexit to find a new "normal."
 
 ### Strategy Behind:
@@ -82,6 +82,26 @@ These insights allow for a massive shift in Airline Strategy, suggesting a move 
 
 -----------------------------
 
+## Healthcare Analytics
 
+### Inspiration Behind:
+This came as another passion project. Healthcare is an environment defined by high stakes and high friction, where delays in data can lead to delays in critical care. I wanted to apply my optimization mindset to a field where better data directly impacts human lives. This project was driven by a desire to move from reactive hospital management to a proactive, data-driven system that anticipates patient needs before they become emergencies.
 
+### Strategy Behind:
+I treated the patient journey as a complex system requiring precise technical interventions:
 
+01. Bottleneck Identification: Analyzed over 26,000 inpatient records to identify care delivery bottlenecks and optimize resource allocation for specialty surgical procedures.
+02. Risk Stratification Modeling: Developed predictive risk models using Logistic Regression and Decision Trees to forecast patient readmission risks.
+03. Clinical KPI Engineering: Engineered critical metrics such as Length-of-Stay and Cost-to-Serve to visualize provider performance and translate complex clinical data into actionable strategies.
+
+I focused on Clinical Actionability, simulating a Patient Support Program (PSP) to enable proactive, targeted interventions for high-risk patient cohorts.
+
+### How it all came out:
+
+The project demonstrated that large-scale clinical datasets can be transformed into clear roadmaps for improving health outcomes. By moving away from anecdotal observations and toward evidence-based strategies, the model provides a Single Source  for hospital administrators to optimize surgical throughput and reduce the likelihood of patient readmission.
+
+### What this Changes:
+
+This work changes the Healthcare Management landscape by shifting the focus from simply "managing volume" to "optimizing the quality of the pathway." By implementing these risk models, hospitals can pivot toward Value-Based Care, where resource allocation is tied directly to recovery outcomes rather than procedure counts. Furthermore, it proves that Digital Health Interventions can be used to scale patient support beyond the hospital walls, reducing the burden on physical ER infrastructure.
+
+[**View Project**](https://github.com/Ri-jain/Healthcare_Analytics)
