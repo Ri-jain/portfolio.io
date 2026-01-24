@@ -1,9 +1,13 @@
 # Project Portfolio
 
 
-Business Analyst | Data Storyteller | Strategy Enthusiast
+Business Analyst | Data Storyteller | Strategy Enthusiast | Business Consultant | Marketing Analyst
 
-Hi, I'm Rishabh Jain.  I'm a passionate Business Analytics professional with 4+ years of experience turning **raw data into real results**. Whether it’s crafting predictive models, optimizing rail systems, or decoding the app store universe using GenAI, I love solving business problems at the intersection of **data, tech, and strategy**
+Hi, I'm Rishabh Jain. I'm a Business Professional with 4+ years of professional experience working with data,strategy and execution.
+
+** Welcome to my portfolio!** 
+
+I work for solutions to real life challenges. My passion is rooted in optimization. I always aim to work on challenges that addresses our everyday friction and affect how we live and work. This portfolio is a showcase of my skills that spans understanding about data in different industries , business strategy in real world and my curiosity for solving various problems.
 
 ## Projects
 
