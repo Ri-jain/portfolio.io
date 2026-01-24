@@ -9,11 +9,28 @@ I work for solutions to real life challenges. My passion is rooted in optimizati
 ## Projects
 
 
-### Hospital Inpatient Discharges Analysis – Total Hip Replacement ([View Project](https://github.com/Ri-jain/Healthcare_Analytics))
-- Analyzed 26K+ inpatient records using Python to uncover hospital-level efficiency and financial performance.  
-- Engineered cost, revenue, and profit metrics per patient; segmented cases by LOS and demographics (race, gender, age).  
-- Visualized trends across 15+ charts; revealed 10 hospitals driving 50%+ revenue and 5 operating at negative profit.
+### Sport Analytics
+### US Open - ATP Prediction Model
 
+## Why I decided to work on this :
+As a recreational tennis player and a fan, I’ve always been fascinated by the invisible factors that decide a Grand Slam—like how a veteran’s mental toughness holds up against a younger player’s physical stamina. I noticed that standard sports stats often miss these 'human' elements. I took on this project to see if I could build a more holistic model that doesn't just look at who won, but why they won, accounting for the friction of age, recovery, and high-pressure moments.
+
+## Strategy behind this:
+I designed a three-layered approach to simulate reality, moving beyond raw statistics:*
+
+**01. Scouting the Data:** Scraped 6 years of ATP match data (2019-2024) to establish a baseline of player "DNA."
+**02. Engineering "Human" Features:** Created **Stamina Curves** (based on age/match duration) and **Pressure-Point Conversion** rates to account for mental fatigue.
+**03. The Simulation:** Executed a **10,000-round Monte Carlo loop** to forecast the 2025 US Open, finding the most probable "path to victory."
+
+** I prioritized **Elo Ratings** over standard ATP Rankings. In a high-friction sport like tennis, momentum in the last 30 days is a much stronger predictor of success than a 12-month average.
+
+### (The Results)
+
+| **Model Accuracy** | **87%** (Validated against 2024 outcomes) |
+| **The "Eureka" Moment** | Identified the 3rd hour of play as the "stamina tipping point" where youth overrides experience. |
+| **The Forecast** | Highlighted **Jannik Sinner** as the dominant force for 2025 due to his elite Elo-to-Age ratio. |
+
+Explore more: https://github.com/Ri-jain/Sport-Analytics
 ---
 
 ### AZ Watch Churn Prediction & Segmentation ([View Project](https://github.com/Ri-jain/AZ-Watch-))
