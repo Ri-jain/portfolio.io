@@ -3,8 +3,8 @@
   @media screen and (min-width: 1200px) {
     #project-sidebar {
       position: fixed;
-      left: 30px; /* Adjust to sit in the white space */
-      top: 450px; /* Positions below your profile photo */
+      left: 30px; 
+      top: 450px; 
       width: 180px;
       z-index: 100;
       border-right: 1px solid #eee;
@@ -24,21 +24,20 @@
 </style>
 
 <div id="project-sidebar">
-  <p style="font-weight: bold; color: #333; font-size: 15px; margin-bottom: 10px;"> Index</p>
+  <p style="font-weight: bold; color: #333; font-size: 15px; margin-bottom: 10px;">Index</p>
 
-  <p style="font-size: 12px; font-weight: bold; margin: 15px 0 5px 0; color: #666; letter-spacing: 1px;"> Data Analytics</p>
+  <p style="font-size: 11px; font-weight: bold; margin: 15px 0 5px 0; color: #666; letter-spacing: 1px;">DATA ANALYTICS</p>
   <ul>
-  <ul>
-    <li><a href="#sport-analytics"> Sport Analytics</a></li>
-    <li><a href="#mobility-analytics"> Mobility Optimization</a></li>
-    <li><a href="#healthcare-analytics"> Healthcare Analytics</a></li>
+    <li><a href="#sport-analytics">Sport Analytics</a></li>
+    <li><a href="#mobility-analytics">Mobility Optimization</a></li>
+    <li><a href="#healthcare-analytics">Healthcare Analytics</a></li>
   </ul>
-<p style="font-size: 12px; font-weight: bold; margin: 15px 0 5px 0; color: #666; letter-spacing: 1px;"> Strategy & Consulting</p>
+
+  <p style="font-size: 11px; font-weight: bold; margin: 15px 0 5px 0; color: #666; letter-spacing: 1px;">STRATEGY & CONSULTING</p>
   <ul>
-    <li><a href="#chipotle-strategy"> Chipotle India Strategy</a></li>
+    <li><a href="#chipotle-strategy">Chipotle India Strategy</a></li>
   </ul>
 </div>
-
 
 
 # Project Portfolio
