@@ -61,17 +61,17 @@ As a recreational tennis player and a fan, I’ve always been fascinated by the 
 
 ### Strategy Behind:
 I designed a three-layered approach to simulate reality, moving beyond raw statistics:
-1. **Scouting the Data:** Scraped 6 years of ATP match data (2019-2024) from Jeff Sackman/ Tennis abstract datasets.
-2. **Engineering Human Features:** Created **Stamina Curves** (based on age/match duration) and **Pressure-Point Conversion** rates to account for mental fatigue.
-3. **The Simulation:** Executed a **10,000-round Monte Carlo loop** to forecast the 2025 US Open, finding the most probable "path to victory".
+1. Scouting the Data:** Scraped 6 years of ATP match data (2019-2024) from Jeff Sackman/ Tennis abstract datasets.
+2. Engineering Human Features:** Created Stamina Curves (based on age/match duration) and Pressure-Point Conversion rates to account for mental fatigue.
+3. The Simulation:** Executed a 10,000-round Monte Carlo loop to forecast the 2025 US Open, finding the most probable "path to victory".
 
 I prioritized **Elo Ratings** over standard ATP Rankings. Momentum in the last 30 days is a much stronger predictor of success than a 12-month average.
 
 ### How it all came out:
-The model achieved an **87% accuracy rate** when validated against 2024 outcomes. The most significant finding was the **"3rd-hour tipping point,"** identifying exactly when physical stamina begins to override veteran experience. Based on an elite Elo-to-Age ratio, the model highlighted **Jannik Sinner** as the dominant force for the 2025 season.
+The model achieved an 87% accuracy rate when validated against 2024 outcomes. The most significant finding was the 3rd-hour tipping point, identifying exactly when physical stamina begins to override veteran experience. Based on an elite Elo-to-Age ratio, the model highlighted Jannik Sinner as the dominant force for the 2025 season.
 
 ### What this Changes:
-This model moves the needle for **Sports Broadcasting** by enabling real-time "Live Win-Probability" graphics that factor in player fatigue. Additionally, it offers **Coaching Staffs** a data-backed blueprint to adjust conditioning or tactics as players approach their identified fatigue thresholds.
+This model moves the needle for Sports Broadcasting by enabling real-time "Live Win-Probability" graphics that factor in player fatigue. Additionally, it offers Coaching Staffs a data-backed blueprint to adjust conditioning or tactics as players approach their identified fatigue thresholds.
 
 [**View Project**](https://github.com/Ri-jain/Sport-Analytics)
 
@@ -85,15 +85,15 @@ This project idea came about as a part of a Business Modeling class at Northeast
 
 ### Strategy Behind:
 I engineered a data-driven model to identify service gaps and architect a new Express tier:
-1. **Demographic Layering:** Integrated MBTA usage data with District Population data to ensure our model prioritized high-density neighborhoods and maintained social equity.
-2. **Integer Programming (PuLP):** Developed a mathematical optimization model in Python to identify "low-impact" stops to bypass, maximizing speed while preserving essential service connections.
-3. **Financial Stress-Testing:** Executed a **1,000-iteration Monte Carlo simulation** to forecast revenue growth and ridership elasticity.
+1. Demographic Layering: Integrated MBTA usage data with District Population data to ensure our model prioritized high-density neighborhoods and maintained social equity.
+2. Integer Programming (PuLP): Developed a mathematical optimization model in Python to identify "low-impact" stops to bypass, maximizing speed while preserving essential service connections.
+3. Financial Stress-Testing: Executed a 1,000-iteration Monte Carlo simulation to forecast revenue growth and ridership elasticity.
 
 ### How it all came out: 
-The prototype demonstrated a **9.25-minute saving per trip**, scaling to thousands of commuter hours saved annually. The financial impact is significant, with an **$18.6M projected annual revenue growth**. Environmentally, the model predicts the removal of **6,300+ cars** from Boston roads daily.
+The prototype demonstrated a 9.25-minute saving per trip, scaling to thousands of commuter hours saved annually. The financial impact is significant, with an $18.6M projected annual revenue growth. 
 
 ### What this Changes:
-This project reshapes **Urban Policy** by proving that city planners can achieve modernized results through low-cost scheduling overhauls rather than massive construction budgets.
+This project reshapes Urban Policy by proving that city planners can achieve modernized results through low-cost scheduling overhauls rather than massive construction budgets.
 
 [**View Project**](https://github.com/Ri-jain/MBTA-Optimization-Project)
 
@@ -107,15 +107,15 @@ Healthcare is an environment defined by high stakes where delays in data can lea
 
 ### Strategy Behind:
 I treated the patient journey as a complex system requiring precise technical interventions:
-1. **Bottleneck Identification:** Analyzed over **26,000 inpatient records** to identify care delivery bottlenecks and optimize resource allocation.
-2. **Risk Stratification Modeling:** Developed predictive risk models using **Logistic Regression and Decision Trees** to forecast patient readmission risks.
-3. **Clinical KPI Engineering:** Engineered critical metrics such as **Length-of-Stay and Cost-to-Serve** to visualize provider performance.
+1. Bottleneck Identification: Analyzed over 26,000 inpatient records to identify care delivery bottlenecks and optimize resource allocation.
+2. Risk Stratification Modeling: Developed predictive risk models using Logistic Regression and Decision Trees** to forecast patient readmission risks.
+3. Clinical KPI Engineering: Engineered critical metrics such as Length-of-Stay and Cost-to-Serve to visualize provider performance.
 
 ### How it all came out:
-The project demonstrated that large-scale clinical datasets can be transformed into clear roadmaps for improving health outcomes. The model provides a **"Single Source of Truth"** for hospital administrators to optimize surgical throughput and reduce readmissions.
+The project demonstrated that large-scale clinical datasets can be transformed into clear roadmaps for improving health outcomes. The model provides a model for hospital administrators to optimize surgical throughput and reduce readmissions.
 
 ### What this Changes:
-This work changes the **Healthcare Management** landscape by shifting the focus to **Value-Based Care**. By implementing these risk models, hospitals can pivot toward models where resource allocation is tied directly to recovery outcomes rather than volume.
+This work changes the Healthcare Management landscape by shifting the focus to Value-Based Care. By implementing these risk models, hospitals can pivot toward models where resource allocation is tied directly to recovery outcomes rather than volume.
 
 [**View Project**](https://github.com/Ri-jain/Healthcare_Analytics)
 
@@ -126,18 +126,18 @@ This work changes the **Healthcare Management** landscape by shifting the focus 
 ## Chipotle: Market Entry Strategy in India <a name="chipotle-strategy"></a>
 
 ### Inspiration Behind:
-This project was born from an interest in **"Reverse Globalization"**—the complex challenge of adapting a global brand to a high-friction market. As a Business Analytics student with an MBA, I architected a market entry strategy for **Chipotle Mexican Grill’s** entry into India.
+This project was born from an interest in "Reverse Globalization", the complex challenge of adapting a global brand to a high-friction market. As a Business Analytics student with an MBA, I along with my team architected a market entry strategy for Chipotle Mexican Grill’s entry into India.
 
 ### Strategy Behind:
 We developed a comprehensive investment and operational framework:
-1. **Market & Competitive Benchmarking:** Performed deep-dive analysis using **Porter’s Five Forces and Value Chain Analysis**. I benchmarked Chipotle against incumbents like Taco Bell and McDonald’s.
-2. **Cultural Localization:** Designed a transnational strategy that mandates a high vegetarian menu mix and strict cross-contamination protocols.
-3. **Risk-Mitigated Entry Mode:** Recommended a **Joint Venture** with a local player to leverage an established supply chain and reduce initial entry risk.
+1. Market & Competitive Benchmarking: Performed deep-dive analysis using Porter’s Five Forces and Value Chain Analysis. I benchmarked Chipotle against incumbents like Taco Bell and McDonald’s.
+2. Cultural Localization: Designed a transnational strategy that mandates a high vegetarian menu mix and strict cross-contamination protocols.
+3. Risk-Mitigated Entry Mode: Recommended a Joint Venture with a local player to leverage an established supply chain and reduce initial entry risk.
 
 ### How it all came out:
-The report established a clear roadmap for long-term brand building. By focusing on urban hubs like **Delhi, Mumbai, and Bengaluru**, the model identifies that a single outlet in India costs approximately **₹3.51 Cr**—a 77% saving compared to US costs—enabling a **18-24 month break-even timeline**.
+The report established a clear roadmap for long-term brand building. By focusing on urban hubs like Delhi, Mumbai, and Bengaluru, the model identifies that a single outlet in India costs approximately ₹3.51 Cr, a 77% saving compared to US costs—enabling a 18-24 month break-even timeline.
 
 ### What this Changes:
-This project proves that successful market entry requires a pivot from standard menus to **Local Supply Chain Innovation**—such as sourcing native biodegradable materials for packaging. It provides a blueprint for **Asset-Light Expansion** in emerging economies.
+This project proves that successful market entry requires a pivot from standard menus to Local Supply Chain Innovation,such as sourcing native biodegradable materials for packaging. It provides a blueprint for Asset-Light Expansion in emerging economies.
 
 [**View Report**](https://github.com/Ri-jain/Chipotle-India-Entry-/blob/main/Full-Report.pdf)
