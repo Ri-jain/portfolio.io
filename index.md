@@ -70,7 +70,7 @@ I prioritized **Elo Ratings** over standard ATP Rankings. Momentum in the last 3
 ### How it all came out:
 The model achieved an **87% accuracy rate** when validated against 2024 outcomes. The most significant finding was the **"3rd-hour tipping point,"** identifying exactly when physical stamina begins to override veteran experience. Based on an elite Elo-to-Age ratio, the model highlighted **Jannik Sinner** as the dominant force for the 2025 season.
 
-### 🚀 What this Changes:
+### What this Changes:
 This model moves the needle for **Sports Broadcasting** by enabling real-time "Live Win-Probability" graphics that factor in player fatigue. Additionally, it offers **Coaching Staffs** a data-backed blueprint to adjust conditioning or tactics as players approach their identified fatigue thresholds.
 
 [**View Project**](https://github.com/Ri-jain/Sport-Analytics)
@@ -92,7 +92,7 @@ I engineered a data-driven model to identify service gaps and architect a new Ex
 ### How it all came out: 
 The prototype demonstrated a **9.25-minute saving per trip**, scaling to thousands of commuter hours saved annually. The financial impact is significant, with an **$18.6M projected annual revenue growth**. Environmentally, the model predicts the removal of **6,300+ cars** from Boston roads daily.
 
-### 🚀 What this Changes:
+### What this Changes:
 This project reshapes **Urban Policy** by proving that city planners can achieve modernized results through low-cost scheduling overhauls rather than massive construction budgets.
 
 [**View Project**](https://github.com/Ri-jain/MBTA-Optimization-Project)
@@ -114,7 +114,7 @@ I treated the patient journey as a complex system requiring precise technical in
 ### How it all came out:
 The project demonstrated that large-scale clinical datasets can be transformed into clear roadmaps for improving health outcomes. The model provides a **"Single Source of Truth"** for hospital administrators to optimize surgical throughput and reduce readmissions.
 
-### 🚀 What this Changes:
+### What this Changes:
 This work changes the **Healthcare Management** landscape by shifting the focus to **Value-Based Care**. By implementing these risk models, hospitals can pivot toward models where resource allocation is tied directly to recovery outcomes rather than volume.
 
 [**View Project**](https://github.com/Ri-jain/Healthcare_Analytics)
@@ -137,7 +137,7 @@ We developed a comprehensive investment and operational framework:
 ### How it all came out:
 The report established a clear roadmap for long-term brand building. By focusing on urban hubs like **Delhi, Mumbai, and Bengaluru**, the model identifies that a single outlet in India costs approximately **₹3.51 Cr**—a 77% saving compared to US costs—enabling a **18-24 month break-even timeline**.
 
-### 🚀 What this Changes:
+### What this Changes:
 This project proves that successful market entry requires a pivot from standard menus to **Local Supply Chain Innovation**—such as sourcing native biodegradable materials for packaging. It provides a blueprint for **Asset-Light Expansion** in emerging economies.
 
 [**View Report**](https://github.com/Ri-jain/Chipotle-India-Entry-/blob/main/Full-Report.pdf)
