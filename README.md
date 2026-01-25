@@ -33,8 +33,6 @@
     <li><a href="#mobility-analytics"> Mobility Optimization</a></li>
     <li><a href="#healthcare-analytics"> Healthcare Analytics</a></li>
   </ul>
-
-
 <p style="font-size: 12px; font-weight: bold; margin: 15px 0 5px 0; color: #666; letter-spacing: 1px;"> Strategy & Consulting</p>
   <ul>
     <li><a href="#chipotle-strategy"> Chipotle India Strategy</a></li>
@@ -47,13 +45,11 @@
 
 Hi, I'm Rishabh Jain. I'm a Business Professional with 4+ years of professional experience working with data,strategy and execution.
 
- Welcome to my Portfolio!
+Welcome to my Portfolio!
 
 I work for solutions to real life challenges. My passion is rooted in optimization. I always aim to work on challenges that addresses our everyday friction and affect how we live and work. This portfolio is a showcase of my skills that spans understanding about data in different industries , business strategy in real world and my curiosity for solving various problems.
 
 ## PROJECTS
-
-
 
 ## Sport Analytics <a name="sport-analytics"></a>
 ## US Open - ATP Prediction Model
