@@ -108,11 +108,11 @@ Healthcare is an environment defined by high stakes where delays in data can lea
 ### Strategy Behind:
 I treated the patient journey as a complex system requiring precise technical interventions:
 1. Bottleneck Identification: Analyzed over 26,000 inpatient records to identify care delivery bottlenecks and optimize resource allocation.
-2. Risk Stratification Modeling: Developed predictive risk models using Logistic Regression and Decision Trees** to forecast patient readmission risks.
+2. Risk Stratification Modeling: Developed predictive risk models using Logistic Regression and Decision Trees to forecast patient readmission risks.
 3. Clinical KPI Engineering: Engineered critical metrics such as Length-of-Stay and Cost-to-Serve to visualize provider performance.
 
 ### How it all came out:
-The project demonstrated that large-scale clinical datasets can be transformed into clear roadmaps for improving health outcomes. The model provides a model for hospital administrators to optimize surgical throughput and reduce readmissions.
+The project demonstrated that large-scale clinical datasets can be transformed into clear roadmaps for improving health outcomes. The model provides a blueprint for hospital administrators to optimize surgical throughput and reduce readmissions.
 
 ### What this Changes:
 This work changes the Healthcare Management landscape by shifting the focus to Value-Based Care. By implementing these risk models, hospitals can pivot toward models where resource allocation is tied directly to recovery outcomes rather than volume.
