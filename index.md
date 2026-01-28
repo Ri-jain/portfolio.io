@@ -100,22 +100,22 @@ This project reshapes Urban Policy by proving that city planners can achieve mod
 ---
 
 ## Healthcare Analytics <a name="healthcare-analytics"></a>
-### Patient Care Pathway Optimization
+### Predictive Patient Analytics & Clinical Efficiency Optimization
 
 ### Inspiration Behind:
-Healthcare is an environment defined by high stakes where delays in data can lead to delays in critical care. I wanted to apply my optimization mindset to a field where better data directly impacts human lives. This project was driven by a desire to move from reactive hospital management to a proactive, data-driven system.
+Healthcare is an environment defined by high stakes where delays in data can lead to delays in critical care. I wanted to apply my optimization mindset to a field where better data directly impacts human lives. My goal was to leverage analytics to make healthcare more accessible and efficient by identifying systemic leaks that drain resources away from patient care. This project was driven by a desire to move from reactive hospital management to a proactive, data-driven system.
 
 ### Strategy Behind:
 I treated the patient journey as a complex system requiring precise technical interventions:
-1. Bottleneck Identification: Analyzed over 26,000 inpatient records to identify care delivery bottlenecks and optimize resource allocation.
-2. Risk Stratification Modeling: Developed predictive risk models using Logistic Regression and Decision Trees to forecast patient readmission risks.
-3. Clinical KPI Engineering: Engineered critical metrics such as Length-of-Stay and Cost-to-Serve to visualize provider performance.
+1.)Bottleneck Identification: Analyzed 26,594 inpatient records to identify care delivery bottlenecks, discovering that the top 10 hospitals generated over 50% of total charges while others operated at a loss.
+2.)Risk Stratification Modeling: Developed predictive risk models using Logistic Regression and Decision Trees to forecast patient readmission risks, simulating a Patient Support Program to enable proactive interventions.
+3.)Clinical KPI Engineering: Engineered critical metrics such as Length-of-Stay, Cost-to-Serve, and Profitability to visualize provider performance and benchmark efficiency across different health service areas.
 
 ### How it all came out:
-The project demonstrated that large-scale clinical datasets can be transformed into clear roadmaps for improving health outcomes. The model provides a blueprint for hospital administrators to optimize surgical throughput and reduce readmissions.
+The project demonstrated that large scale clinical datasets can be transformed into clear roadmaps for improving health outcomes. The analysis revealed that targeted interventions for high-risk cohorts could lead to a 12-15% reduction in Cost-to-Serve. Furthermore, identifying specific demographic trends such as the high resource strain of the 70–89 age group—provided a blueprint for hospital administrators to optimize surgical throughput and reduce readmissions.
 
 ### What this Changes:
-This work changes the Healthcare Management landscape by shifting the focus to Value-Based Care. By implementing these risk models, hospitals can pivot toward models where resource allocation is tied directly to recovery outcomes rather than volume.
+This work changes the Healthcare Management landscape by shifting the focus to Value-Based Care. It proves that inefficiencies, such as negative profit-per-patient at specific facilities, are identifiable and manageable through data. By implementing these risk models, hospitals can pivot toward models where resource allocation is tied directly to recovery outcomes rather than volume.
 
 [**View Project**](https://github.com/Ri-jain/Healthcare_Analytics)
 
