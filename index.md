@@ -107,8 +107,11 @@ Healthcare is an environment defined by high stakes where delays in data can lea
 
 ### Strategy Behind:
 I treated the patient journey as a complex system requiring precise technical interventions:
+
 1.)Bottleneck Identification: Analyzed 26,594 inpatient records to identify care delivery bottlenecks, discovering that the top 10 hospitals generated over 50% of total charges while others operated at a loss.
+
 2.)Risk Stratification Modeling: Developed predictive risk models using Logistic Regression and Decision Trees to forecast patient readmission risks, simulating a Patient Support Program to enable proactive interventions.
+
 3.)Clinical KPI Engineering: Engineered critical metrics such as Length-of-Stay, Cost-to-Serve, and Profitability to visualize provider performance and benchmark efficiency across different health service areas.
 
 ### How it all came out:
