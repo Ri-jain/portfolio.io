@@ -45,7 +45,6 @@ title: Portfolio
 
 # Project Portfolio
 
-Hi, I'm Rishabh Jain. I'm a Business Professional with 3+ years of professional experience working with data, strategy, and execution.
 
 Welcome to my Portfolio! This portfolio is a showcase of my skills that spans understanding about data in different industries, business strategy in real world and my curiosity for always learning and solving problems.
 
